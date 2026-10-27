@@ -1,0 +1,6 @@
+{
+  "name": "Medical Environmental Health & Parasitology",
+  "description": "Interactive study guide, exam practice, flashcards, and progress tracking for Medical Environmental Health and Parasitology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
